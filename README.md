@@ -4,7 +4,7 @@
 
 [![GoDoc](https://godoc.org/github.com/mehanizm/bivrost?status.svg)](https://pkg.go.dev/github.com/mehanizm/bivrost)
 ![Go](https://github.com/mehanizm/bivrost/workflows/Go/badge.svg)
-[![codecov](https://codecov.io/gh/mehanizm/bivrost/branch/master/graph/badge.svg)](https://codecov.io/gh/mehanizm/bivrost)
+[![codecov](https://codecov.io/gh/mehanizm/bivrost/branch/main/graph/badge.svg)](https://codecov.io/gh/mehanizm/bivrost)
 [![Go Report](https://goreportcard.com/badge/github.com/mehanizm/bivrost)](https://goreportcard.com/report/github.com/mehanizm/bivrost)
 
 See an example in cmd/main.go
